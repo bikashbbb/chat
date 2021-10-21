@@ -30,4 +30,4 @@ simplejson==3.13.2
 six
 SQLAlchemy==1.4.23
 sqlparse==0.4.2
-
+django-heroku
